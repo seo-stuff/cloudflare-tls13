@@ -54,7 +54,7 @@ api_token = "ваш_токен_здесь"
 
 1. Запустите скрипт:
 ```bash
-python cloudflare_tls_manager.py
+python cloudflare_tls13.py
 ```
 
 2. Скрипт покажет список всех доменов в вашем аккаунте
